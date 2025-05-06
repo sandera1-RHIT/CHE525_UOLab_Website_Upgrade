@@ -10,3 +10,10 @@ On the backside of the website, it connects through python code to the UOLab his
 
 ## New Website
 The new website will include all of the same features as the old website, as well as include more features.  The new features being selecting individual instruments from the process, larger variety of time intervals, and a choice of the type of data. 
+
+Ideas:
+1. Home page that requests the unit operation
+2. Press a submission button on the home page that sends a request to return the available instruments for the process chosen
+3. Proceed to a second page that allows for the selection of the intruments
+4. Allow the selection of the date, time, and time interval of the data requested.
+5. If able to, have the option of the type of data (raw, sampled, current value)
